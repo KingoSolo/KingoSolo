@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KingoSolo
-- 👀 I’m interested in understanding where i stand in tech,networking and joining communities
-- 🌱 I’m currently learning web development(front end)
+-  Hi, I’m @KingoSolo
+-  I’m interested in building things that work
+-  I’m currently learning web development(front end)
 - 
 
 <!---
