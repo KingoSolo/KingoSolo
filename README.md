@@ -1,6 +1,6 @@
--  Hi, I’m @KingoSolo
--  I’m interested in building things that work
--  I’m currently learning web development(front end)
+-  Hi,I’m @KingoSolo
+-  I'm interested in building things that work
+-  I am currently learning web development(front end)
 
 
 <!---
