@@ -1,7 +1,7 @@
 -  Hi,I’m @KingoSolo
 -  I'm interested in building things that work
 -  I am currently learning web development(front end)
-
+ 
 
 <!--- 
 KingoSolo/KingoSolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
