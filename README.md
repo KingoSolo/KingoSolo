@@ -1,4 +1,4 @@
--  Hi,I am Solomon
+-  Hi, I am Solomon
 -  I'm interested in building things that work
 -  I am currently learning web development(front end) 
 <!--- 
