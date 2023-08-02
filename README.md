@@ -1,6 +1,6 @@
 -  Hi, I'm Solomon
 -  I'm interested in building things that work
--  I am currently learning web development(front end) 
+-  I am currently working on web projects 
 <!--- 
 KingoSolo/KingoSolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.  
