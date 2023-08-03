@@ -23,14 +23,5 @@ You can click the Preview link to take a look at your changes.
 [<img alt="git" width="50px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"/>](https://git-scm.com/)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KingoSolo&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-<br></br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KingoSolo&theme=dark&hide_border=false)<br/>
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnosam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-<!-- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Derpinou/count.svg" />
-</p>
- -->
+
