@@ -19,7 +19,6 @@ jobs:
           REPOSITORY: KingoSolo/KingoSolo
           # meta
           API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: athul/athul
           # content
           SHOW_TITLE: true
           SECTION_NAME: waka
